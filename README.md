@@ -10,4 +10,9 @@
     <td>01</td>
     <td><a href="/01_Day_Introduction">Introduction</a></td>
   </tr>
+  
+  <tr>
+    <td>02</td>
+    <td><a href="/02_Day_Data_Types">Data Types</a></td>
+  </tr>
 </table>
