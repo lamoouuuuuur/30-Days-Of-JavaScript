@@ -20,4 +20,9 @@
     <td>03</td>
     <td><a href="/03_Day_Booleans_Operators_Date">Booleans, operators, date</a></td>
   </tr>
+  
+  <tr>
+    <td>04</td>
+    <td><a href="/04_Day_Conditionals">Conditionals</a></td>
+  </tr>
 </table>
