@@ -15,4 +15,9 @@
     <td>02</td>
     <td><a href="/02_Day_Data_types">Data Types</a></td>
   </tr>
+  
+  <tr>
+    <td>03</td>
+    <td><a href="/03_Day_Booleans_Operators_Date>Booleans, operators, date</a></td>
+  </tr>
 </table>
