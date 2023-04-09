@@ -18,6 +18,6 @@
   
   <tr>
     <td>03</td>
-    <td><a href="/03_Day_Booleans_Operators_Date>Booleans, operators, date</a></td>
+    <td><a href="/03_Day_Booleans_Operators_Date">Booleans, operators, date</a></td>
   </tr>
 </table>
