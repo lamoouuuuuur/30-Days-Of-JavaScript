@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    background-image: url("/24_Day_Project_Solar_System/media/images/galaxy.gif");
+}
+
+
+h1 {
+    color: #fff;
+    margin: 30px auto 20px;
+}
+
+input {
+    border-radius: 3px;
+    width: 300px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+input::placeholder {
+    padding-left: 10px;
+}
+
+select {
+    text-transform: capitalize;
+    height: 40px;
+    margin-right: 5px;
+}
+
+button {
+    text-transform: capitalize;
+    background-color: grey;
+    color: white;
+    height: 40px;
+    cursor: pointer;
+}
+
+.container {
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.description{
+    font-size: 50px;
+    color: white;
+    margin-left: 100px;
+}
+
+
+
+
