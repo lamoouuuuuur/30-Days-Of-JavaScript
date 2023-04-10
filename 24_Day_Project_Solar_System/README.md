@@ -5,4 +5,4 @@ Develop a small application which calculate a weight of an object in a certain p
 
 Example:
 
-<a href="/24_Day_Project_Solar_System/media/images/7hn6wn.gif" alt="Example of code"></a>
+<a href="/24_Day_Project_Solar_System/media/images/7hn6wn.gif" alt="Example of code">Code</a>
