@@ -25,4 +25,9 @@
     <td>04</td>
     <td><a href="/04_Day_Conditionals">Conditionals</a></td>
   </tr>
+  
+  <tr>
+    <td>05</td>
+    <td><a href="/05_Day_Array">Arrays</a></td>
+  </tr>
 </table>
