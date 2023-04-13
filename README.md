@@ -30,4 +30,9 @@
     <td>05</td>
     <td><a href="/05_Day_Array">Arrays</a></td>
   </tr>
+  
+  <tr>
+    <td>06</td>
+    <td><a href="/06_Day_Loops">Loops</a></td>
+  </tr>
 </table>
